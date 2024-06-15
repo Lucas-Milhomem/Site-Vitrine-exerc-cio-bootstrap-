@@ -1,0 +1,58 @@
+
+header {
+    color: rgb(0, 0, 0);
+    background-color: rgba(103, 103, 131, 0.9);
+    text-align: center;
+    padding: 1px;
+    
+}
+
+.container {
+    margin-top: 1%;
+}
+
+.carousel {
+    display: inline-block;
+}
+
+#carouselhead img {
+    width: 100%;
+}
+
+.row {
+    padding-top: 2%;
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 16%;
+}
+
+.accordion {
+    padding-top: 2%;
+    margin-bottom: 1%;
+}
+
+button {
+    margin-bottom: 1%;
+}
+
+h5 {
+    color: rgb(128, 30, 30);
+    text-align: center;
+}
+
+footer {
+    justify-content: center;
+    display:flex;
+    background-color: rgba(103, 103, 131, 0.9);
+    padding: 1px;
+    font-size: 1px;
+}
+footer h1 {
+    font-size: 30px;
+}
+
+footer p {
+    font-size: large;
+}
